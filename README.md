@@ -60,7 +60,7 @@ When a post preview is clicked on, the user is brought to the post's page. Here 
 
 ### Creating Posts
 
-Users create new posts by going through the prompts on the new post form. The only required field is the title field. Posts can be made anonymously. This option was specifically designed for the Vent & De-Stress channel where users share their struggles with the pandemic. Posts also include the option to upload an image file.
+Users create new posts by going through the prompts on the new post form. The only required field is the title field. Posts can be made anonymously. This option was specifically designed for the Vent & De-Stress channel where users share their struggles with the pandemic. There is also the option to upload an image file when creating/editing posts.
 
 Once complete, the user is brought to the post's page where they'll be able to update and/or delete the post.
 
