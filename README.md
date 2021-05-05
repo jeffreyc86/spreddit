@@ -4,8 +4,6 @@
 
 Requires [Spreddit front end](https://github.com/jeffreyc86/spreddit-frontend) and [Spreddit back end](https://github.com/jeffreyc86/spreddit-backend).
 
-Created in partnership with Flatiron School cohort-mate [Nana Lau](https://github.com/nanalau315).
-
 ## Live Link & Demo
 
 Visit the [Live Link](https://spreddit.netlify.app/) 
@@ -88,4 +86,4 @@ To end their session, users click on `Logout`. Once logged out, the stored `JWT 
 
 The [MIT](https://choosealicense.com/licenses/mit/) License
 
-Copyright (C) 2021 - [Jeffrey Chiu](https://github.com/jeffreyc86) and [Nana Lau](https://github.com/nanalau315)
+Copyright (C) 2021 - [Jeffrey Chiu](https://jeffreychiu.dev/)
